@@ -1,4 +1,4 @@
-# 🐰 Avalon Stuffy Bunny Mapper
+# 🐰 Stuffy Avalonian Bunny Mapper
 
 **Интерактивный помощник для исследования порталов Авалона в Albion Online.**
 
