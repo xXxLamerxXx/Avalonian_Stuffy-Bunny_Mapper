@@ -36,14 +36,16 @@
 ## 📸 Демонстрация
 
 ### Основное окно
-![Основа_rus](screenshots/Screenshot_3.png)
-![Основа_en](screenshots/Screenshot_4.png)
+![Основа](screenshots/main_window_ru.png)
+![Main](screenshots/main_window_en.png)
 
 ### Редактор карт
-![Редактор](screenshots/Screenshot_5.png)
+![Редактор карты](screenshots/map_editor_ru.png)
+![Map editor](screenshots/map_editor_en.png)
 
 ### Справка
-![Помощь](screenshots/Screenshot_6.png)
+![Помощь](screenshots/FAQ_ru.png)
+![Help](screenshots/FAQ_en.png)
 
 
 
