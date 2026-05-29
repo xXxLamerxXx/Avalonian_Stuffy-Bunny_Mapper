@@ -2378,8 +2378,8 @@
       "resources": [
         {
           "type": "STONE",
-          "size": "small",
-          "count": 2
+          "size": "large",
+          "count": 1
         },
         {
           "type": "WOOD",
@@ -2390,6 +2390,11 @@
           "type": "FIBER",
           "size": "small",
           "count": 1
+        },
+        {
+          "type": "STONE",
+          "count": 1,
+          "size": "large"
         }
       ]
     },
