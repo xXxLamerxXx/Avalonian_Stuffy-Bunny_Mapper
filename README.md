@@ -68,7 +68,6 @@
 pip install -r requirements.txt
 
 
-
 Запуск скрипта
 bash
 python Parser.py
@@ -87,11 +86,11 @@ Tesseract\
 
 📁 Структура репозитория
 Avalon-Mapper/
-├── Parser.py              # основной скрипт
+├── File.py              # основной скрипт
 ├── maps.json              # база объектов порталов
 ├── icons/                 # иконки сундуков, ресурсов, данжей
 ├── Tesseract/             # (не включён в Git) портативный OCR
 ├── .gitignore
-├── README.md
-└── requirements.txt       # список Python-зависимостей
+└──  README.md
+
 
