@@ -7,8 +7,6 @@
 Создано с ❤️ гильдией **Stuffy Bunny**.   
 [![Discord](https://img.shields.io/badge/Discord-Присоединиться-5865F2?logo=discord&logoColor=white)](https://discord.gg/D6C73tZcMn)
 
-
-
 ---
 
 ## ✨ Возможности
