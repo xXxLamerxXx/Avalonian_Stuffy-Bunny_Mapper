@@ -1,0 +1,16 @@
+﻿[PMC Globals]|None||
+[PMC Code v5.4.1]|Control||1|Window,2,Fast,0,1,Input,-1,-1,1|1|Macro1
+Context=None|
+Groups=Start:1
+1|g|{g}|1|0|Send||||||
+
+[PMC Code v5.4.1]|XButton1||1|Window,2,Fast,0,1,Input,-1,-1,1|1|Macro2
+Context=None|
+Groups=Start:1
+1|q|{q}|1|0|Send||||||
+
+[PMC Code v5.4.1]|XButton2||1|Window,2,Fast,0,1,Input,-1,-1,1|1|Macro3
+Context=None|
+Groups=Start:1
+1|r|{r}|1|0|Send||||||
+
